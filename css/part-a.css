@@ -43,6 +43,7 @@ body {
   font-weight: 600;
 }
 
+
 .hero {
   display: flex;
   align-items: center;
@@ -76,6 +77,17 @@ body {
   font-weight: 600;
   text-decoration: none;
   font-size: 1rem;
+}
+.hero-subtitle {
+  display: inline-block;
+  background-color: #ff6b9a;
+  color: #ffffff;
+  font-size: .80rem;
+  font-weight: 700;
+  padding: 0.25rem 0.5rem;
+  border-radius: 12px;
+  letter-spacing: 0.5px;
+  margin-bottom: 1rem;
 }
 .meet-the-team {
   background-color: #f3f7f2;
