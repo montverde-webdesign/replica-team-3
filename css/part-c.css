@@ -1,3 +1,14 @@
-/* PART C styles. Owner: [first name]
+/* PART C styles. Owner: [Zyair]
    Only style the things inside Part C of index.html.
    Put your phone-size rules in a media query at the bottom of this file. */
+.team {
+  background-color: #43642b
+  padding: 100x 0;
+}
+.partone{}
+.parttwo{}
+.partthree{}
+.partfour{}
+.partfive{}
+.partsix{}
+.partseven{}
