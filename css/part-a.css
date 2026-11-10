@@ -2,11 +2,7 @@
 /*   Only style the things inside Part A of index.html.
    Put your phone-size rules in a media query at the bottom of this file. */
 
-body {
-  font-family: "Inter", sans-serif;
-  color: #1f3d2b;
-  background-color: #f3f7f2; 
-}
+
  .navbar {
   display: flex;
   justify-content: space-between;

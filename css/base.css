@@ -4,3 +4,8 @@
    2. Style body, headings (h1, h2, h3), img, and anything every part uses, like .button.
    Teammates: ask the Part A owner to add something here. Don't edit this file yourself. */
 @import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=Inter:wght@400;600&display=swap");@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=Inter:wght@400;600&display=swap");
+body {
+  font-family: "Inter", sans-serif;
+  color: #1f3d2b;
+  background-color: #f3f7f2; 
+}
